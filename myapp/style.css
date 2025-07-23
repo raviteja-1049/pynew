@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: radial-gradient(#0f0f0f, #1f1f1f);
+  color: #fff;
+  text-align: center;
+}
+.container {
+  padding: 50px;
+}
+input {
+  padding: 10px;
+  border-radius: 8px;
+  width: 250px;
+}
+button {
+  padding: 10px 20px;
+  background: #00ffcc;
+  border: none;
+  color: black;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#faceImage {
+  width: 250px;
+  height: 250px;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 20px #00ffcc;
+}
+#desc {
+  font-size: 18px;
+  margin-top: 15px;
+  color: #00ffcc;
+}
